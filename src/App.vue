@@ -80,7 +80,7 @@ export default {
 // 5. Add additional custom code here
 html,
 body {
-  height: 100%;
+  min-height: 100vh;
   background-color: #333;
 }
 
